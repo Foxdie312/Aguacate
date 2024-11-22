@@ -1,0 +1,8 @@
+Primero creamos una clase que se llama "Materia" en la que colocamos atributos que son Nombre, Codigo, creditos  y horario,
+
+Creamos otra clase llamada "Estudiante" a la que le colocamos los atributos: nombre, id y marerias inscrias, luego colocamos la id,, el nombre y las materias inscritas del estudiante 
+para que aparezcan con el.
+
+Creamos una clase para gestionar los horarios, llamada "GestionarHorarios"  a la que le pusimos las clases registrarMaterias, estudiante y verificarHorarios
+en esta clase, añadimos las materias, el nombre, el codigo, los creditos y el horario de la materia para tenerlas en orden y aparezcan, para agregar la materia usamos su clase
+luego usamos los atributos de las clases para definir los horarios y maeteria del estudiante para gestionar horarios y inscribir materias con sus respectivas horas.
